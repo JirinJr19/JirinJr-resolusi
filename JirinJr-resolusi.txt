@@ -1,3 +1,5 @@
 JIRIN RESOLUSI
 - saya ingin membuat suatu website buat desa ku
 - saya ingin memajukan wisata didesaku
+-saya ingin memakai css
+-saaya ingin belajar java script
